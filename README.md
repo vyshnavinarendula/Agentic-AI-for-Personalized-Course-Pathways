@@ -172,7 +172,7 @@ streamlit run app.py
 
 ## 📄 License
 
-This project is created for educational and hackathon purposes.
+This project is created for educational purposes.
 
 ---
 
